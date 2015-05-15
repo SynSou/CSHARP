@@ -1,0 +1,8 @@
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Documents and Settings\s.wau\My Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
