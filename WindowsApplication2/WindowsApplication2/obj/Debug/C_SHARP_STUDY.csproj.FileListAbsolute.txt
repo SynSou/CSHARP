@@ -1,0 +1,8 @@
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\obj\Debug\C_SHARP_STUDY.Form1.resources
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\00.wangxianshou\GIT\CSHARP\WindowsApplication2\WindowsApplication2\obj\Debug\C_SHARP_STUDY.csproj.GenerateResource.Cache
