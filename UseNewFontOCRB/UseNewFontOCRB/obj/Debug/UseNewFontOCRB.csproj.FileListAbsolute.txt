@@ -1,0 +1,8 @@
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\bin\Debug\UseNewFontOCRB.exe
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\bin\Debug\UseNewFontOCRB.pdb
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\obj\Debug\ResolveAssemblyReference.cache
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\obj\Debug\UseNewFontOCRB.Form1.resources
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\obj\Debug\UseNewFontOCRB.Properties.Resources.resources
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\obj\Debug\UseNewFontOCRB.csproj.GenerateResource.Cache
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\obj\Debug\UseNewFontOCRB.exe
+C:\00.wangxianshou\workspace\UseNewFontOCRB\UseNewFontOCRB\obj\Debug\UseNewFontOCRB.pdb
