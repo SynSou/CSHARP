@@ -1,0 +1,5 @@
+C:\00.wangxianshou\workspace\example_reflection\example_reflection\bin\Debug\example_reflection.exe
+C:\00.wangxianshou\workspace\example_reflection\example_reflection\bin\Debug\example_reflection.pdb
+C:\00.wangxianshou\workspace\example_reflection\example_reflection\obj\Debug\ResolveAssemblyReference.cache
+C:\00.wangxianshou\workspace\example_reflection\example_reflection\obj\Debug\example_reflection.exe
+C:\00.wangxianshou\workspace\example_reflection\example_reflection\obj\Debug\example_reflection.pdb
